@@ -1,0 +1,6 @@
+This file depends on git_master.txt
+
+And I edited it with master-branch. 
+Okay, everything is okay!
+
+_____________________________________________________
