@@ -8,6 +8,7 @@ How about this document. This is the Master document.
 
 ______________________________________________________
 
+
 Its time, that i will edit it as a master.
 
 ______________________________________________________
@@ -23,4 +24,3 @@ Here we will track all changes.
 
 1.Change: 
 index.php was added. 
-
