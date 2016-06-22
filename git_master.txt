@@ -8,7 +8,11 @@ How about this document. This is the Master document.
 
 ______________________________________________________
 
-<<<<<<< HEAD
+
+Its time, that i will edit it as a master.
+
+______________________________________________________
+
 
 
 Okay, I will extend this document for feature purpose: 
@@ -20,8 +24,3 @@ Here we will track all changes.
 
 1.Change: 
 index.php was added. 
-=======
-Its time, that i will edit it as a master.
-
-______________________________________________________
->>>>>>> master
